@@ -4,7 +4,7 @@
 - 💞️ I'm open to collaborating on AI projects, research, and hackathons 
 - 📫 Reach me via LinkedIn (https://www.linkedin.com/in/nailasuiuxdesign/) 
 - 😄 Pronouns: Na'ila / she-her
-- ⚡ Fun fact: With dual master's degrees in Finance and Computer Science and 9 years in graphic design, I'm now channeling my creative and analytical sides into AI and Data Science research!
+- ⚡ Fun fact: With dual master's degrees in Finance and Computer Science and 9 years in graphic design, I'm now channeling my creative and analytical sides into AI and Data research!
 
 
 <!---
