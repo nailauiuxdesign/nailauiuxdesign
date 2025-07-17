@@ -17,7 +17,7 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 ---
 ## 📊 My LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=unicorn&font=Tomorrow&ext=activity&width=1000)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=unicorn&font=Tomorrow&ext=activity)
 
 ---
 
