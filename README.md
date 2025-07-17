@@ -41,18 +41,18 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 
 ## 🌟 Recent Projects
 
-### 🐾 NatureTrace – Wildlife Recognition & Storytelling Platform  
+### NatureTrace – Wildlife Recognition & Storytelling Platform  
 An intelligent animal recognition app that uses AI to recognize animals and display analytics. [🔗 NatureTrace](https://github.com/FloraWebDesigner/2025_NatureTrace-Python)
 
 
-### 🔧 AutoBackend.ai – Generate Hono Backend from API Specs  
+### AutoBackend.ai – Generate Hono Backend from API Specs  
 Instant backend generation from OpenAPI specs an AI-powered tool. [🔗 AutoBackend.AI](https://github.com/nailauiuxdesign/autobackend.ai_web)
 
 ---
 
 ## 📫 Let’s Connect!
 
-- 💼 How to reach me: [https://www.linkedin.com/in/nailasuiuxdesign/)
+- How to reach me: [Naila Sadia LinkedIn](https://www.linkedin.com/in/nailasuiuxdesign/)
 
 ---
 
