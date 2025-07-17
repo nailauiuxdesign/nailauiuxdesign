@@ -59,3 +59,20 @@ I believe learning is a lifelong journey and hackathons are the best crash cours
 ---
 
 🖤 _“Design like a user. Code like a builder. Learn like a beginner.”_
+
+---
+## 🚀 Featured Projects
+
+### 🐾 NatureTrace – Wildlife Recognition & Storytelling Platform  
+A hackathon-winning Streamlit app that uses AI to recognize animals, tell their stories, and display analytics.
+[🔗 GitHub Repo](https://github.com/FloraWebDesigner/2025_NatureTrace-Python)
+
+<img src="https://github.com/FloraWebDesigner/2025_NatureTrace-Python/raw/main/demo.gif" width="600"/>
+
+---
+
+### 🔧 AutoBackend.ai – Generate Hono Backend from API Specs  
+AI-powered tool to auto-generate backend services from API specs. Designed and built with a team during a GenAI hackathon.  
+[🔗 GitHub Repo](https://github.com/nailauiuxdesign/autobackend.ai_web)
+
+<img src="https://github.com/nailauiuxdesign/autobackend.ai_web/raw/main/demo.gif" width="600"/>
