@@ -4,7 +4,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 
 ## 🚀 What I’m Working On
 
-- 🎓 Learning **Agentic AI, GenAI, ML, and Python** with a focus on real-world applications
+- 🎓 Learning **AI, ML, and Python** with a focus on real-world applications
 - 🛠️ Participating in hackathons (recently built **AutoBackend.AI** & **NatureTrace**)
-- 🌱 Exploring  **Streamlit apps**, **Generative AI**, and **AI Agents**
+- 🌱 Exploring **Generative AI**, **Streamlit apps**, and **AI Agents**
 - 🎨 Building intuitive, user-friendly interfaces powered by AI
 
 ---
@@ -39,14 +39,12 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 
 - 🔧 [AutoBackend.AI](https://github.com/nailauiuxdesign/autobackend.ai_web): Instant backend generation from OpenAPI specs
 - 🐾 [NatureTrace](https://github.com/nailauiuxdesign/2025_NatureTrace_Python): An intelligent animal recognition platform
-- 🧠 Smart Career Advisor: Personalized guidance app built with Streamlit
 
 ---
 
 ## 📫 Let’s Connect!
 
 - 💼 How to reach me: [https://www.linkedin.com/in/nailasuiuxdesign/)
-- 📝 [Portfolio / Website](https://yourportfolio.com) *(optional)*
 
 ---
 
@@ -58,15 +56,7 @@ I believe learning is a lifelong journey and hackathons are the best crash cours
 
 🖤 _“Design like a user. Code like a builder. Learn like a beginner.”_
 
-## 📊 GitHub Stats
+---
+## 📊 LeetCode Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailauiuxdesign&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 📊LeetCode Dashboard
-![](https://leetcard.jacoblin.cool/nailasadia?ext=contest)
+![](https://leetcard.jacoblin.cool/nailauiuxdesigner?ext=contest)
