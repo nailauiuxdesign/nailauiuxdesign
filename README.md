@@ -26,39 +26,14 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 - 🎓 Learning **GenAI, Agentic AI, ML, and Python** with a focus on real-world applications
 - 🛠️ Participating in hackathons (recently built **AutoBackend.AI** & **NatureTrace**)
 - 🌱 Exploring **Streamlit apps**, **Generative AI**, and **AI Agents**
-- 🎨 Building intuitive, user-friendly interfaces powered by AI
-
----
-
-## 🧠 Interests
-
-- Generative AI & Agentic Workflows  
-- Data Visualization & Analytics  
-- Educational and Impact-driven Tech  
-- Creative AI Apps that blend code + design
-
----
-
-## 🌟 Recent Projects
-
-### NatureTrace – Wildlife Recognition & Storytelling Platform  
-An intelligent animal recognition app that uses AI to recognize animals and display analytics. [🔗 NatureTrace](https://github.com/FloraWebDesigner/2025_NatureTrace-Python)
-
-
-### AutoBackend.ai – Generate Hono Backend from API Specs  
-Instant backend generation from OpenAPI specs an AI-powered tool. [🔗 AutoBackend.AI](https://github.com/nailauiuxdesign/autobackend.ai_web)
-
----
-
-## 📫 Let’s Connect!
-
-- How to reach me: [Naila Sadia LinkedIn](https://www.linkedin.com/in/nailasuiuxdesign/)
+- 🎨 Building Creative AI Apps that blend code + design
+- 📫 How to reach me: [Naila Sadia LinkedIn](https://www.linkedin.com/in/nailasuiuxdesign/)
 
 ---
 
 ## 💡 Fun Fact
 
-I spend my free time expanding my knowledge and learning new technologies to discover what clicks most with me. Learning is a lifelong journey and hackathons are the best crash courses in real-world tech! 🚀
+Learning is a lifelong journey and hackathons are the best crash courses in real-world tech. I spend my free time expanding my knowledge and learning new technologies to discover what clicks most with me. 
 
 ---
 
