@@ -4,7 +4,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 
 ## 💡 Fun Fact
 
-I believe learning is a lifelong journey—and hackathons are the best crash courses in real-world tech! 🚀
+I believe learning is a lifelong journey and hackathons are the best crash courses in real-world tech! 🚀
 
 ---
 
