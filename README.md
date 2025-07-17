@@ -9,15 +9,15 @@
   #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailauiuxdesign&layout=compact&theme=radical" alt="Top Languages" />
 
 </p> -->
-## 📊 My LeetCode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=dark)
-
----
 
 # 👋 Hi there! I'm Naila Sadia
 
-I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial Intelligence** and **Data Science**. With a strong background in design and an ever-growing love for coding, I bring a unique perspective to problem-solving where functionality meets aesthetics.
+I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial Intelligence** and **Data Science**. With a strong background in design and an ever-growing passion for coding, I bring a unique perspective to problem-solving that combines functionality with aesthetics.
+
+---
+## 📊 My LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=dark)
 
 ---
 
