@@ -57,6 +57,4 @@ I believe learning is a lifelong journey and hackathons are the best crash cours
 ---
 ## 📊 LeetCode Stats
 
-![](https://leetcard.jacoblin.cool/nailasadia?ext=contest)
-
-![](https://leetcard.jacoblin.cool/nailasadia?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=dark)
