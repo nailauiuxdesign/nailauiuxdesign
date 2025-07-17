@@ -58,7 +58,7 @@ Instant backend generation from OpenAPI specs an AI-powered tool. [🔗 AutoBack
 
 ## 💡 Fun Fact
 
-I believe learning is a lifelong journey and hackathons are the best crash courses in real-world tech! 🚀
+I spend my free time expanding my knowledge and learning new technologies to discover what clicks most with me. Learning is a lifelong journey and hackathons are the best crash courses in real-world tech! 🚀
 
 ---
 
