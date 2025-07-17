@@ -10,7 +10,7 @@
 
 </p> -->
 
-# 👋 Hi there! I'm Naila Sadia
+# 👋 Hi there! I'm Naila Sadia, Welcome to my Github
 
 I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial Intelligence** and **Data Science**. With a strong background in design and an ever-growing passion for coding, I bring a unique perspective to problem-solving that combines functionality with aesthetics.
 
