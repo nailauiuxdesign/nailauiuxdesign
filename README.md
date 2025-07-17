@@ -1,6 +1,16 @@
 <!--
 **nailauiuxdesign/nailauiuxdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailauiuxdesign&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 # 👋 Hi there! I'm Naila Sadia
 
 I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial Intelligence** and **Data Science**. With a strong background in design and an ever-growing love for coding, I bring a unique perspective to problem-solving where functionality meets aesthetics.
@@ -48,11 +58,6 @@ I believe learning is a lifelong journey—and hackathons are the best crash cou
 
 🖤 _“Design like a user. Code like a builder. Learn like a beginner.”_
 
-- 🔭 I know Python.
-- 🌱 I’m currently learning GenAI.
-- 👯 I’m looking to collaborate on GenAI and Agentic AI projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
 
 ![](https://leetcard.jacoblin.cool/nailasadia?ext=contest)
