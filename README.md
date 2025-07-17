@@ -3,13 +3,11 @@
 -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=tokyonight" alt="GitHub Stats" />   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailauiuxdesign&layout=compact&theme=radical" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailauiuxdesign&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+---
 
 # 👋 Hi there! I'm Naila Sadia
 
@@ -59,4 +57,4 @@ I believe learning is a lifelong journey and hackathons are the best crash cours
 ---
 ## 📊 LeetCode Stats
 
-![](https://leetcard.jacoblin.cool/nailauiuxdesigner?ext=contest)
+![](https://leetcard.jacoblin.cool/nailauiuxdesigne?ext=contest)
