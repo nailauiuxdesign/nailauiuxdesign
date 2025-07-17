@@ -1,11 +1,11 @@
 <!--
 **nailauiuxdesign/nailauiuxdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- <p align="right"> ## 📊 GitHub Stats <p>           <p align="right"> ## 📊 LeetCode Stats </p> 
+ <p align="left"> ## 📊 GitHub Stats <p>           <p align="right"> ## 📊 LeetCode Stats </p> 
 
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=tokyonight" alt="GitHub Stats" />   ![Leetcode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=nailauiuxdesign&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p>  ![Leetcode Stats](https://leetcard.jacoblin.cool/nailasadia?theme=dark)
   #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailauiuxdesign&layout=compact&theme=radical" alt="Top Languages" />
 
 </p>
