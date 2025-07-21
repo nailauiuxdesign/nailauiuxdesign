@@ -38,6 +38,3 @@ Learning is a lifelong journey and hackathons are the best crash courses in real
 ---
 
 🖤 _“Design like a user. Code like a builder. Learn like a beginner.”_
-
-
-<iframe src="https://badgr.com/public/assertions/z3AEY1fOQ0-_knqmr035lw?embedVersion=1&amp;embedWidth=370&amp;embedHeight=167" title="Badge: LeadWithAIAgents Hackathon 2025: Participant Certificate" style="width: 370px; height: 167px; border: 0px;"></iframe>
