@@ -38,3 +38,33 @@ Learning is a lifelong journey and hackathons are the best crash courses in real
 ---
 
 🖤 _“Design like a user. Code like a builder. Learn like a beginner.”_
+
+
+{
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/z3AEY1fOQ0-_knqmr035lw",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "0Hm8orC4WA56SYgf",
+    "hashed": true,
+    "identity": "sha256$13857808eff0e49a56b6235db28d0e94a96e23edced490583b57d433a71e8d60"
+  },
+  "badge": "https://api.badgr.io/public/badges/KsYCTNwjR8aBW9Qw3uFwJw",
+  "issuedOn": "2025-07-20T21:00:00Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/z3AEY1fOQ0-_knqmr035lw/image"
+  },
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Naila Sadia"
+  }
+}
