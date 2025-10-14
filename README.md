@@ -24,7 +24,7 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 ## 🚀 What I’m Working On
 
 - 🎓 Learning **GenAI, Agentic AI, ML, and Python** with a focus on real-world applications
-- 🛠️ Participating in hackathons (recently built **AutoBackend.AI**, **NatureTrace**, **LoanPilot**, **TrailMate** & **Artifact Studio**)
+- 🛠️ Participated in international hackathons (recently built **AutoBackend.AI**, **NatureTrace**, **LoanPilot**, **TrailMate**, **Artifact Studio** & **Global Podcaster** )
 - 🌱 Exploring **Streamlit apps**, **Generative AI**, and **AI Agents**
 - 🎨 Building Creative AI Apps that blend code + design
 - 📫 How to reach me: [Naila Sadia LinkedIn](https://www.linkedin.com/in/nailasuiuxdesign/)
