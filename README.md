@@ -28,8 +28,6 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 - 🌱 Exploring **Streamlit apps**, **Generative AI**, and **AI Agents**
 - 🎨 Building Creative AI Apps that blend code + design
 - 📫 How to reach me: [Naila Sadia LinkedIn](https://www.linkedin.com/in/nailasuiuxdesign/)
-- [TrailMate](https://trail-mate-ai-agent-fok3.vercel.app/)
-
 ---
 
 ## 💡 Fun Fact
