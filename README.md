@@ -27,7 +27,7 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 - 🛠️ Participated in international hackathons (recently built [ShadowMentor](https://shadowmentor.vercel.app/), [SlopDetector](https://aistudio.google.com/apps/drive/16Sd_gQujJOLbb1Zsagk6ZxLVuIkc0l17?showPreview=true&showAssistant=true&fullscreenApplet=true&appParams=%252Fhuman-review), [Sketch to Sky](https://sketch-to-sky-ui.vercel.app/), [GlobalPodcaster](https://global-podcaster.vercel.app/), [VisualArtifactStudio](https://artifact-studio.vercel.app/), [TrailMate](https://trail-mate-ai-agent-fok3.vercel.app/), [LoanPilot](https://financial-loan-advisor-gpwwxpcc4dkhzycqjt34p6.streamlit.app/), [AutoBackend.AI](https://master.djcv0lwl54a6i.amplifyapp.com/) & NatureTrace)
 - 🌱 Exploring **Streamlit apps**, **Generative AI**, and **AI Agents**
 - 🎨 Building Creative AI Apps that blend code + design
-- 📫 How to reach me: [Naila Sadia LinkedIn](https://www.linkedin.com/in/nailasuiuxdesign/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nailasuiuxdesign/)
 ---
 
 ## 💡 Fun Fact
