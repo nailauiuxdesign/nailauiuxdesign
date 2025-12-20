@@ -25,15 +25,15 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
 
 - 🎓 Learning **GenAI, Agentic AI, ML, and Python** with a focus on real-world applications
 - 🛠️ Participated in international hackathons, recently built:
-  - [QubicUbuntuPatientCare](https://qubic.virons.uk/) | [Demo](https://drive.google.com/file/d/1JDL4Vui6y42qFyHlHus9bTj5sjBfyXkg/view),
-  - [ShadowMentor](https://shadowmentor.vercel.app/) | [Demo](https://lablab.ai/event/agentic-ai-hackathon-ibm-watsonx-orchestrate/shadow-mentor/shadow-mentor),
-  - [SlopDetector](https://aistudio.google.com/apps/drive/16Sd_gQujJOLbb1Zsagk6ZxLVuIkc0l17?showPreview=true&showAssistant=true&fullscreenApplet=true&appParams=%252Fhuman-review) | [Demo](),
-  - [Sketch to Sky](https://sketch-to-sky-ui.vercel.app/) | [Demo](https://drive.google.com/file/d/1bu-Y4awcSV6m_pITbx4SBVSEjWN5Oyn2/view),
-  - [GlobalPodcaster](https://global-podcaster.vercel.app/) | [Demo](),
-  - [VisualArtifactStudio](https://artifact-studio.vercel.app/) | [Demo](),
+  - ##QubicUbuntuPatientCare: [Live View](https://qubic.virons.uk/) | [Demo](https://drive.google.com/file/d/1JDL4Vui6y42qFyHlHus9bTj5sjBfyXkg/view) | [Slides](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://storage.googleapis.com/lablab-static-eu/presentations/submissions/mlw20b0znf11iy7snkjnc2az/mlw20b0znf11iy7snkjnc2az-1765025609364_t2bwbti94pfj5k305ickp3v8.pdf),
+  - ##ShadowMentor: [Live View](https://shadowmentor.vercel.app/) | [Demo](https://lablab.ai/event/agentic-ai-hackathon-ibm-watsonx-orchestrate/shadow-mentor/shadow-mentor) | [Slides](https://gamma.app/docs/The-Shadow-Mentor-75hvpz273vrffne?mode=doc),
+  - ##SlopDetector: [Live View](https://aistudio.google.com/apps/drive/16Sd_gQujJOLbb1Zsagk6ZxLVuIkc0l17?showPreview=true&showAssistant=true&fullscreenApplet=true&appParams=%252Fhuman-review) | [Demo](https://aistudio.google.com/apps/drive/16Sd_gQujJOLbb1Zsagk6ZxLVuIkc0l17?showAssistant=true&appParams=%252F&resourceKey=&showPreview=true&fullscreenApplet=true) | [Slides](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://storage.googleapis.com/lablab-static-eu/presentations/submissions/k0kp6qhovgbijog4rs4ya0km/k0kp6qhovgbijog4rs4ya0km-1763509101175_v0brmzaerfx8ojf834pfyiu7.pdf),
+  - Sketch to Sky: [Live View](https://sketch-to-sky-ui.vercel.app/) | [Demo](https://drive.google.com/file/d/1bu-Y4awcSV6m_pITbx4SBVSEjWN5Oyn2/view) | [Slides](https://gamma.app/docs/Sketch-to-Sky-ml3t6si3u8157qh?mode=doc),
+  - GlobalPodcaster: [Live View](https://global-podcaster.vercel.app/) | [Demo](https://global-podcaster.vercel.app/) | [Slides](),
+  - [VisualArtifactStudio](https://artifact-studio.vercel.app/) | [Demo]() | [Slides](),
   - [TrailMate](https://trail-mate-ai-agent-fok3.vercel.app/),
-  - [LoanPilot](https://financial-loan-advisor-gpwwxpcc4dkhzycqjt34p6.streamlit.app/),
-  - [AutoBackend.AI](https://master.djcv0lwl54a6i.amplifyapp.com/)
+  - [LoanPilot](https://financial-loan-advisor-gpwwxpcc4dkhzycqjt34p6.streamlit.app/) | [Demo]() | [Slides](),
+  - [AutoBackend.AI](https://master.djcv0lwl54a6i.amplifyapp.com/) | [Demo]() | [Slides](),
   - NatureTrace
 - 🌱 Exploring **Streamlit apps**, **Generative AI**, and **AI Agents**
 - 🎨 Building Creative AI Apps that blend code + design
