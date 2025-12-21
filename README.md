@@ -33,7 +33,7 @@ I'm a passionate **UI/UX Designer** transitioning into the world of **Artificial
   - **VisualArtifactStudio:** [Live View](https://artifact-studio.vercel.app/) | [Demo](https://lablab.ai/event/co-creating-with-gpt-5/artifact-studio/visual-artifact-studio) | [Slides](https://gamma.app/docs/Visual-Artifact-Studio-bgxy23ryn4y2ylf?mode=doc)
   - **TrailMate:** [Live View](https://trail-mate-ai-agent-fok3.vercel.app/)
   - **LoanPilot:** [Live View](https://financial-loan-advisor-gpwwxpcc4dkhzycqjt34p6.streamlit.app/) | [Slides](https://docs.google.com/presentation/d/1_5TT8DyEp7aj1zxYrOUy1lrQoLrJPSSG/edit?slide=id.p8&pli=1#slide=id.p8)
-  - **AutoBackend.AI:** [Live View](https://master.djcv0lwl54a6i.amplifyapp.com/) | [Demo](https://lablab.ai/event/code-craft-ai-x-dev-hackathon/sheriax/autobackendai-instant-backend-from-api-specs) | [Slides](http://efaidnbmnnnibpcajpcglclefindmkaj/https://storage.googleapis.com/lablab-static-eu/presentations/submissions/cmbxkw1kn00003b6sqmkiudhg/cmbxkw1kn00003b6sqmkiudhg-1749995461310_7e1stz08mq.pdf)
+  - **AutoBackend.AI:** [Live View](https://master.djcv0lwl54a6i.amplifyapp.com/) | [Demo](https://lablab.ai/event/code-craft-ai-x-dev-hackathon/sheriax/autobackendai-instant-backend-from-api-specs) | [Slides](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/cmbxkw1kn00003b6sqmkiudhg/cmbxkw1kn00003b6sqmkiudhg-1749995461310_7e1stz08mq.pdf)
   - **NatureTrace**
 - 🌱 Exploring **Streamlit apps**, **Generative AI**, and **AI Agents**
 - 🎨 Building Creative AI Apps that blend code + design
